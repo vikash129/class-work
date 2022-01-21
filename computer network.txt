@@ -1,0 +1,86 @@
+çomputer networks:
+		a network consists of two or more nodes (e.g computers ) thar are linked in order to share resources (such as printers and CDs) exchange files, or allow electronic cmmunications . the computer on network may be linked through cables , telephone lines , radio waves , satellites , or infrared light beams.
+___________________________________________________________________________________
+
+
+* "a computer network is a set of computer connected together for the purpose of sharing resources." the most common resource shared today is connection to the internet. other shared resources can include a printer or a file server.
+
+* "computer on a network are called nodes."
+	the connection between computers can be done via cabling , most commonly the ethernet cable , or wirelessly through radio waves. connected computer can share resources, like access to the internet,printers k file seves, and others.
+_____________________________________________________
+
+____________________________________________________
+* goals of networking+-
+
+1. resource and load sharing 
+2.programs do  not need to run on a single machine 
+3. reduced cost
+4.several machines can share printer,tape drives,ect.
+5.high reliability 
+6.if a machine goes down , another can take over
+7. mail and communication
+---------------------------------------------------------------
+
+______________________________________________________
+* features of computer network
+
+1.communication speed
+2.file sharing
+3.securty
+4.back up and roll back
+5. hardware and software sharing 
+6. scalability
+7.reliability
+-----------------------------------------------------------
+__________________________________________________________
+
+__________________________________________________________
+*network application
+
+1.marketina and sales 
+2.financial services
+3.manufacturing
+4.cad,cam
+5.information serices 
+6.cellular telephone 
+7.cable television
+8.teleconferencing
+9.e-mail
+----------------------------------------------------------
+
+_________________________________________________________
+*types of computer network
+
+1.peer to peer network
+2.client / server network
+
+________________________________________________________
+*peer to peer network
+
+// peer to peer newrork is a network in which all the computer are linked together with equal privilage and responsibilites for processing the data.
+
+// peer to peer network is useful for small environments, usually up to 10 computer.
+
+// peer to peer network has no dedicated server.
+
+// special permissions are assigned toe each computer for sharing the resources, but this can lead to a  problem if the computer with the resource is down.
+
+comp1 <--> comp2 <---> comp3
+--------------------------------------------------------------
+
+__________________________________________________________________
+* client / server network 
+
+client / server network is a network model designed for the end users called clients,to access the resources such as songs , video etc. from a central computer known as server.
+
+the central controller is known as server while all other computer in the network are called clients.
+
+a server performs all the major operations such as security and network management.
+
+a server is responsible for managing all the resources such files directories , printer, etc
+
+all the clients communicate with each  other through a server. for example ,if client 1 wants to send some data to client 2 ,then 
+
+
+server <---> internet
+_______________
