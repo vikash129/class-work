@@ -33,6 +33,7 @@ for(int i = 0 ; i<size ; i++){
   //  (ptr+i)->setData(id , price); //first method
   
   //second method
+//      (*ptr).setData(id,price);
     ptr->setData(id,price);
     ptr++;
 };
